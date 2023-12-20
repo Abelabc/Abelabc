@@ -5,7 +5,8 @@
 
 多线程学习及实战：[multi-thread-learning](https://github.com/Abelabc/multi-thread-learning)
 
-###👍图像分割
+### 👍图像分割
+
 参加NITRE大赛图像去噪方向，基于DnCNN的残差学习图像去噪:[NITRE](https://github.com/Abelabc/NITRE)
 
 opencv利用K-means实现图像分割：[k-means_seg](https://github.com/Abelabc/k-means_seg)
@@ -14,7 +15,7 @@ K-means和em结合实现图像分割：[kmeans-em_seg](https://github.com/Abelab
 
 Gabor滤波判别图像分割效果 ：[Gabor](https://github.com/Abelabc/Gabor)
 
-###🍁游戏
+### 🍁游戏
 
 图形api Opengl的学习和项目：[learn_opengl](https://github.com/Abelabc/learn_opengl)
 
@@ -24,7 +25,7 @@ Gabor滤波判别图像分割效果 ：[Gabor](https://github.com/Abelabc/Gabor)
 
 一个简单的console端的推箱子游戏：[demo-pushing-box](https://github.com/Abelabc/demo-pushing-box)
 
-###🌱其他
+### 🌱其他
 
 学习用blender进行动画:[blender_Fluid_Simulation](https://github.com/Abelabc/blender_Fluid_Simulation)
 
