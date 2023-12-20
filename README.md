@@ -27,6 +27,8 @@ Gabor滤波判别图像分割效果 ：[Gabor](https://github.com/Abelabc/Gabor)
 
 ### 🌱其他
 
+一个简单的基于Haar classifier人脸识别项目：[simple-demo-FOR-Face-Detection](https://github.com/Abelabc/simple-demo-FOR-Face-Detection)
+
 学习用blender进行动画:[blender_Fluid_Simulation](https://github.com/Abelabc/blender_Fluid_Simulation)
 
 
