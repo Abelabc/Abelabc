@@ -15,7 +15,7 @@ K-means和em结合实现图像分割：[kmeans-em_seg](https://github.com/Abelab
 
 Gabor滤波判别图像分割效果 ：[Gabor](https://github.com/Abelabc/Gabor)
 
-### 🍁游戏
+### 🍁游戏和图形学
 
 图形api Opengl的学习和项目：[learn_opengl](https://github.com/Abelabc/learn_opengl)
 
