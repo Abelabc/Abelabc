@@ -17,6 +17,8 @@ Gabor滤波判别图像分割效果 ：[Gabor](https://github.com/Abelabc/Gabor)
 
 ### 🍁游戏和图形学
 
+基于cpu的光线追踪项目：[ray_tracing](https://github.com/Abelabc/Ray_tracing)
+
 图形api Opengl的学习和项目：[learn_opengl](https://github.com/Abelabc/learn_opengl)
 
 使用UE5C++实现一些功能合集：[UE5_project](https://github.com/Abelabc/UE5_Project)
